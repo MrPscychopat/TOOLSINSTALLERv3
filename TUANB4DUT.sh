@@ -26,16 +26,16 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet TUAN B4DUT  | lolcat
+figlet YogasGans  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : TOOLS INSTALLER $green " |lolcat
 echo -b "VERSION   : V.3 " | lolcat
 echo -b "TOTALS    : 311 TOOLS " | lolcat
-echo -b "AUTHOR    : TUAN B4DUT $green " |lolcat
-echo -b "ASSOCIATE : INDONESIAN TERMUX ASSOCIATION $green " |lolcat
-echo -b "ASSOCIATE : INDONESIAN TERMUX TUTORIAL $green " |lolcat
-echo -b "ASSOCIATE : INDONESIAN DARK TERMUX ASSOCIATE $green " |lolcat
+echo -b "AUTHOR    : YogasGans $green " |lolcat
+echo -b "ASSOCIATE : Yang Jelas Gua Gans $green " |lolcat
+echo -b "ASSOCIATE : Yang Jelas Gua Heker $green " |lolcat
+echo -b "ASSOCIATE : Yang Jelas Klean Noob $green " |lolcat
 echo -b "NOTES     : JELAJAHI SETIAP TOOLS DENGAN BIJAK " | lolcat
 echo -b "_____________________________________________________________" | lolcat
 
@@ -50,10 +50,10 @@ clear
 echo -b $green"[#]> TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA " |lolcat
 echo -b $green"[#]> Thanks For Using My Tools" |lolcat
 sleep 1
-echo -b $green"[#]> TUAN B4DUT On Your System" |lolcat
+echo -b $green"[#]> YogasGans On Your System" |lolcat
 
 echo -b $green"[#]> See you Again SCRIPTKIDDIES😎 :)..." |lolcat
-figlet TUAN B4DUT | lolcat
+figlet YogasGans | lolcat
 sleep 1
 exit
 }
@@ -695,7 +695,7 @@ echo -e "============================" | lolcat
 echo -e $b "00. Exit${enda}";
 echo -e "============================" | lolcat
 echo -e "╭─[PILIH NOMORNYA]"
-read -p "   ╰─root@./TUANB4DUT=" pil;
+read -p "   ╰─root@./YogasGans=" pil;
 
 # Nmap
 
@@ -2984,11 +2984,11 @@ echo -e "${y} SUDAH TERINSTALL.."
 
 ;;
 
-00) echo "AUTHOR: TUAN B4DUT" | lolcat
-echo "TUAN B4DUT ON YOUR SYSTEM" | lolcat
-echo "INDONESIAN TERMUX ASSOCIATION" | lolcat
+00) echo "AUTHOR: YogasGans" | lolcat
+echo "YogasGans ON YOUR SYSTEM" | lolcat
+echo "INDONESIAN HEKER" | lolcat
 echo "SEMUA TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA" | lolcat
-figlet TUAN B4DUT | lolcat
+figlet YogasGans | lolcat
 exit
 ;;
 
@@ -2997,5 +2997,5 @@ esac
 done
 done
 
-#[081221215191]
-#[GILANG]
+#[085641863174]
+#[Hacker]
